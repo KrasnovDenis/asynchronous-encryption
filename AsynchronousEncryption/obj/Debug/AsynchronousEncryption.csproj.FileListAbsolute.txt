@@ -1,0 +1,10 @@
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\bin\Debug\AsynchronousEncryption.exe.config
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\bin\Debug\AsynchronousEncryption.exe
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\bin\Debug\AsynchronousEncryption.pdb
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.csprojAssemblyReference.cache
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.Form1.resources
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.Properties.Resources.resources
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.csproj.GenerateResource.cache
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.csproj.CoreCompileInputs.cache
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.exe
+C:\Users\KPACHOB\source\repos\AsynchronousEncryption\AsynchronousEncryption\obj\Debug\AsynchronousEncryption.pdb
